@@ -1,0 +1,5 @@
+{ "env":
+  { "dev"    : {"db": "http://admin:luvcouch@localhost:5984/focus"}
+  , "mob": {"db": "http://admin:luvcouch@localhost:5984/focus"}
+  }
+}
